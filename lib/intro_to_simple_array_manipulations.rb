@@ -1,3 +1,3 @@
 def using_pop(array)
-  puts array.pop
+  p array.pop
 end
