@@ -1,8 +1,10 @@
-
+def using_push(array, element)
+  p array.push(element)
+end
 
 
 def using_unshift(array, element)
-  array.unshift(element)
+  p array.unshift(element)
 end
 
 
