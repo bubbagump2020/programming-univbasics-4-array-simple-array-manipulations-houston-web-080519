@@ -24,7 +24,7 @@ def using_shift_with_args()
   
 end
 
-def using_concat()
+def using_concat(array, array2)
   
 end
 
