@@ -12,7 +12,7 @@ def using_pop(array)
   p array.pop
 end
 
-def using_pop_with_args(array)
+def pop_with_args(array)
   p array.pop(2)
 end
 
@@ -20,9 +20,8 @@ def using_shift(array)
   p array.shift
 end
 
-def using_shift_with_args(array)
-  array = array.shift(2)
-  p array
+def shift_with_args(array)
+  p array.shift(2)
 end
 
 def using_concat(array, array2)
