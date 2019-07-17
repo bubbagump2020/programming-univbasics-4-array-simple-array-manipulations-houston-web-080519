@@ -1,8 +1,8 @@
 
 
 
-def using_unshift(array, String)
-  array.unshift(String)
+def using_unshift(array, element)
+  array.unshift(element)
 end
 
 
